@@ -1,3 +1,5 @@
+[![Jacob Crowe github stats](https://github-readme-stats.vercel.app/api?username=jcrowe91&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 **[Click here to see my portfolio!](https://jcrowe91.github.io/)**
 <!--
 
