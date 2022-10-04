@@ -1,7 +1,8 @@
-[![Jacob Crowe github stats](https://github-readme-stats.vercel.app/api?username=jcrowe91&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
 **[Click here to see my portfolio!](https://jcrowe91.github.io/)**
 <!--
+
+[![Jacob Crowe github stats](https://github-readme-stats.vercel.app/api?username=jcrowe91&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 **jcrowe91/jcrowe91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
